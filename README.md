@@ -155,5 +155,3 @@ Here’s a detailed structure for your project based on the modules you’ve des
 #### **Feedback and Ratings**  
 - **POST** `/reviews`: Submit a review.  
 - **GET** `/reviews/:service_id`: Fetch reviews for a service.  
-
-This modular structure ensures clean separation of concerns and supports scalability. Let me know if you’d like implementation details for any specific part!
